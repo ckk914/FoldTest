@@ -50,11 +50,15 @@ details > div > img {
 }
 
 details > div > p {
-  flex: 1;
+  
+}
+details > div > button{
+ width: 100px;
+ height: 50px;
 }
 
 details[open] > summary {
-   color: red;
+   color:powderblue;
 }
 
 @media (min-width: 768px) {
